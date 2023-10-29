@@ -6,7 +6,7 @@ import kotlinx.coroutines.flow.map
 import ru.disav.transactionviewer.feature.data.mapper.toDomain
 import ru.disav.transactionviewer.feature.data.mapper.toEntity
 import ru.disav.transactionviewer.feature.domain.entity.TransactionModel
-import ru.disav.transactionviewer.room.dao.TransactionDao
+import ru.disav.transactionviewer.app.room.dao.TransactionDao
 import javax.inject.Inject
 
 class TransactionRepository @Inject constructor(

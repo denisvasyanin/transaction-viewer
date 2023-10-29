@@ -1,9 +1,9 @@
-package ru.disav.transactionviewer.room
+package ru.disav.transactionviewer.app.room
 
 import androidx.room.Database
 import androidx.room.RoomDatabase
-import ru.disav.transactionviewer.room.dao.TransactionDao
-import ru.disav.transactionviewer.room.entity.TransactionEntity
+import ru.disav.transactionviewer.app.room.dao.TransactionDao
+import ru.disav.transactionviewer.app.room.entity.TransactionEntity
 
 @Database(
     entities = [TransactionEntity::class],

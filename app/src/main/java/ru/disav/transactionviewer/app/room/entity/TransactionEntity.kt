@@ -1,4 +1,4 @@
-package ru.disav.transactionviewer.room.entity
+package ru.disav.transactionviewer.app.room.entity
 
 import androidx.room.Entity
 import androidx.room.PrimaryKey

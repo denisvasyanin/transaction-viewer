@@ -1,4 +1,4 @@
-package ru.disav.transactionviewer.di.annotations
+package ru.disav.transactionviewer.app.di.annotations
 
 import javax.inject.Qualifier
 

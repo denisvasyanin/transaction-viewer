@@ -1,11 +1,11 @@
-package ru.disav.transactionviewer.room.dao
+package ru.disav.transactionviewer.app.room.dao
 
 import androidx.room.Dao
 import androidx.room.Insert
 import androidx.room.OnConflictStrategy
 import androidx.room.Query
 import kotlinx.coroutines.flow.Flow
-import ru.disav.transactionviewer.room.entity.TransactionEntity
+import ru.disav.transactionviewer.app.room.entity.TransactionEntity
 
 @Dao
 interface TransactionDao {

@@ -1,4 +1,4 @@
-package ru.disav.transactionviewer.di.data
+package ru.disav.transactionviewer.app.di.data
 
 import android.content.Context
 import com.google.gson.Gson
@@ -12,7 +12,7 @@ import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
 import ru.disav.transactionviewer.R
 import ru.disav.transactionviewer.feature.data.TransactionApi
-import ru.disav.transactionviewer.di.annotations.ServerUrl
+import ru.disav.transactionviewer.app.di.annotations.ServerUrl
 import java.util.*
 import javax.inject.Singleton
 

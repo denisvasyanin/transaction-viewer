@@ -3,7 +3,7 @@ package ru.disav.transactionviewer.feature.data.mapper
 import ru.disav.transactionviewer.feature.data.entity.TransactionApiModel
 import ru.disav.transactionviewer.feature.domain.entity.TransactionModel
 import ru.disav.transactionviewer.feature.domain.entity.TransactionStatus
-import ru.disav.transactionviewer.room.entity.TransactionEntity
+import ru.disav.transactionviewer.app.room.entity.TransactionEntity
 import java.time.Instant
 import java.time.LocalDateTime
 import java.time.ZoneId
