@@ -14,3 +14,7 @@
 Параметр транзакции type имеет одно из значений CASH|CARD|BANK|CARD_TO_CARD
 
 Задание желательно выполнить в архитектуре MVVM, с ипользованием Room и Retorfit.
+
+# Результат
+
+https://user-images.githubusercontent.com/6671446/278893417-9cd463ad-d8c4-4dbd-9656-a306b21b92b5.png
