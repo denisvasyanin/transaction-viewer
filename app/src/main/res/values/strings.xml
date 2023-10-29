@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Transaction Viewer</string>
+    <string name="refresh_error_message">Произошла ошибка во время обновления</string>
+    <string name="loading_error_message">Произошла ошибка во время загрузки</string>
+    <string name="reset">Сброс</string>
+    <string name="server_url">http://test.racoon.zoomag.ru</string>
+</resources>
