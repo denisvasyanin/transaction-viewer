@@ -17,4 +17,4 @@
 
 # Результат
 
-https://user-images.githubusercontent.com/6671446/278893417-9cd463ad-d8c4-4dbd-9656-a306b21b92b5.png
+<img width="379" alt="image" src="https://user-images.githubusercontent.com/6671446/278893417-9cd463ad-d8c4-4dbd-9656-a306b21b92b5.png">
